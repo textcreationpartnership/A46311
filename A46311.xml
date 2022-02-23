@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A journal of the siege of London-derry in a letter from an officer in the town, dated May 18, 1689.</title>
+            <author>Officer in the town.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46311</idno>
+            <idno type="STC">Wing J1105</idno>
+            <idno type="STC">ESTC R16986</idno>
+            <idno type="EEBO-CITATION">11859481</idno>
+            <idno type="OCLC">ocm 11859481</idno>
+            <idno type="VID">49997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49997)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A journal of the siege of London-derry in a letter from an officer in the town, dated May 18, 1689.</title>
+                  <author>Officer in the town.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Londonderry (Northern Ireland) --  History --  Siege, 1688-1689.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:49997:1" rendition="simple:additions"/>
+            <head>A JOURNAL OF THE Siege of London-derry: IN A LETTER from an Officer in the Town; Dated <hi>May</hi> 18. 1689.</head>
+            <argument>
+               <p>Licensed and Entred according to Order.</p>
+            </argument>
+            <p>ON the 23d of <hi>April</hi> (St. <hi>George</hi>'s Day) we diſcover'd a great Bo<g ref="char:EOLhyphen"/>dy of Foot, about a mile from the Town; which we imagin'd to be the Van of the Enemy's Army; but they preſently wheeled to the Northward; and ſetled before the Caſtle of <hi>Kilmore,</hi> which they furiouſly Attacked for the ſpace of Three Hours; and at laſt (the VValls being old and ruinous, and the place not te<g ref="char:EOLhyphen"/>nable) the Gariſon yielded upon Articles, which were not well obſerved. They Poſt<g ref="char:EOLhyphen"/>ed there 500 men, and immediately march<g ref="char:EOLhyphen"/>ed to join the Body of the Army, about Four miles from <hi>Derry.</hi>
+            </p>
+            <p>On the 24th our Scouts diſcovered the whole Army under march in three Lines towards the Town. They judged them about Forty Battalions of Foot, and Ten Squadrons of Horſe.</p>
+            <p>About Three of the Clock that Day, the whole Army came up within a mile of our Walls; lying in length from the River to the little Hill of <hi>Ferrick:</hi> All that Day, and the 25th, they were buſied in ſetling their Quarters.</p>
+            <p>On the 26th they drew a Line of Contra<g ref="char:EOLhyphen"/>vallation from the River to the Hill.</p>
+            <p>On the 27th their Line was finiſhed.</p>
+            <p>On the 28th they advanced with a Body of 400 Horſe within Muſquet ſhot of the place, to view the Ground, upon whom we ſallied with a thouſand men, Horſe and Foot: the Diſpute was ſharp for the ſpace of half an hour: the Enemy loſt the Lieute<g ref="char:EOLhyphen"/>nant-General <hi>Mamoone,</hi> two Collonels, ſix Captains, eight Lieutenants, and about ſixty Muſqueteers; but a great body of the Enemies Horſe coming to ſuſtain their Party, we drew off under the Fire of the VValls: VVe loſt about 100 Souldiers, and an excellent Officer, Collonel <hi>Marlin,</hi> two Captains, and four Lieutenants.</p>
+            <p>On the 29th, about Eleven at Night, Ma<g ref="char:EOLhyphen"/>jor-General <hi>Loci,</hi> With Eight Battalions, advanced within 200 Paces of the place, we firing very furiouſly upon them, and they at us. About Two in the Morning we perceived the Enemy were covered in the Ground, and having made a large Lodgement on the 30th at Night, they worked very hard, and made ſmall fire; ſo they advanced the main Attack that Night Thirty Paces.</p>
+            <p>On the 1ſt. of <hi>May,</hi> about Eleven at Night, we made a ſmall Salley with 400 Men, to diſcover the Enemies Poſture; but the Officer who commanded that Sally, after Two or Three Diſcharges, in great diſor<g ref="char:EOLhyphen"/>der retired Cowardly to the Town; for which baſe Action, the next Day he was Tryed by a Councell of VVar, Condemned, and Shot at the Main-Guard.</p>
+            <p>On the 2d we Sallied forth with 500 Men, about Twelve at Night, and having taken the advantage of the Ground, Poſted be<g ref="char:EOLhyphen"/>hind a Ditch Bank, we continued our Fire upon the Enemy till about Three, in the Morning.</p>
+            <p>On the 3d we reſted in the Town quiet, and the Enemy working very hard, ad<g ref="char:EOLhyphen"/>vanced Forty Paces.</p>
+            <p>On the 4th in me Morning, we perceived the Enemy had branched their main Trench
+<pb n="2" facs="tcp:49997:2"/>into Two Attacques, the one pointing to <hi>Colraine</hi> Gate, and the other towards the Water-gate; and had alſo ſet forth the Ground for a Battery betwixt the two At<g ref="char:EOLhyphen"/>tacques.</p>
+            <p>On the 4th at Night, the Battery was finiſhed, and Five ſmall Pieces planted, it not being poſſible to bring up the heavier Guns.</p>
+            <p>On the 5th, being the Lords day, we reſted; but that Night, the Enemy's work<g ref="char:EOLhyphen"/>ing without disturbance, made great ad<g ref="char:EOLhyphen"/>vance, and drew a Line of Communication betwixt the Two Attacques, which ſerved alſo for a Line of Defence before the Front of the Battery.</p>
+            <p>On the 6th. All day the Enemies Guns ſtood ſmartly againſt the Walls; in which we diſcovered a Crack from the Round-Tower to the little Redoubt.</p>
+            <p>On the 7th at Night we Sallied with 700 Men; but finding the Ground levell'd, under which we before were ſhelter'd, after an Hour, having in vain attempted to force the Enemies Trenches, we retired to the Town.</p>
+            <p>On the 8th the Enemy advanced their Attacques within Ten Paces of the Ditch; we continually firing on them from the VValls.</p>
+            <p>On the 9th, they made a large lodge<g ref="char:EOLhyphen"/>ment on the Bank of the Ditch.</p>
+            <p>On the 9th, with Faggots, Boughs, and other materials, they filled the Ditch, throwing in Earth, making a paſſage for a Front of Fifteen Men.</p>
+            <p>On the 11th, they made a covered way croſs the Ditch, to the Foot of the VValls.</p>
+            <p>On the 12th, Collonel <hi>Walker</hi> beat a Par<g ref="char:EOLhyphen"/>ley, and deſired a Ceſſation of Arms for that day, to keep or ſolemnize the Sabbath, which was agreed; that day, Collonel <hi>Walker</hi> preached, taking for his Text, <hi>The Sword of tit Lord, and of Gideon:</hi> He exhor<g ref="char:EOLhyphen"/>ted the Soldiers to be of good Courage and Reſolution, telling them, That on their Valour relled the ſafety of three King<g ref="char:EOLhyphen"/>doms, and bid them be ready for ſome great Action.</p>
+            <p>On the 13th, At night the Miners began to work at the foot of the VVall, but we gave them great diſturbance with Grana<g ref="char:EOLhyphen"/>da's, Stones, Fire, hot Water, and the like.</p>
+            <p>On the 15th, We perceived the Miners were lodged under the Wall.</p>
+            <p>On the 16th, The whole Gariſon was commanded to be ready by ten a Clock at night: About eleven we marched forth at <hi>Colraine</hi> Gate 7000 Men, leaving 1500 for the Guard of the Town; we poſted 1000 Men on both ſides The hollow way, to ſecure our Retreat, and marched with 6000. in two Lines towards the Enemy; at our approach, we received three diſ<g ref="char:EOLhyphen"/>charges from their Trenches, but Collo<g ref="char:EOLhyphen"/>nel <hi>Walker</hi> gave order that no Man ſhould fire a Gun, till we came within half Pi<g ref="char:EOLhyphen"/>ſtol-ſhot of the Trenches; when doubling our Ranks, we poured in upon them three Vollies of Shot, at which they began to ſhrink; but their Officers again putting them in order, they ſuſtained our fire for half an hour, after which they began to retire, but in good Order; and marching croſs the Front of the Batterry, joyned the Attack on the ſide of the Water-gate. We found difficulty to croſs the Enemies Trenches, in which time the Guns of the Battery being turned againſt us, made Three Diſcharges with Great and Small Shot, and cauſed great Slaughter amongſt our men; but having paſſed the Trenches, we carried the Battery without Reſiſtance; and ſo Marched to Attacque the Enemy on the ſide of the VVater-gate, where we found them very ſtrong, and diſputed every Foot of Ground with great Courage and Con<g ref="char:EOLhyphen"/>duct; but after an Hours Firing very hotly on both ſides, they marched in good order down their Trenches towards their Camp, firing upon us as they went, and we on them, and left us Matters of their Trenches, Cannon and Battery. We ſtood under Arms till Three in the Morning, when ſending forth Scouts, they diſcovered the Enemies were drawn up in Battalia, in Five great Bodies along their Line. An Hour after we ſent again, to diſcover their Poſture; and they brought us word, That they perceived their Carriages were march<g ref="char:EOLhyphen"/>ing off: VVe called a Council, VVhether it were convenient to follow them; but con<g ref="char:EOLhyphen"/>ſidering that our men were extreamly tired, we thought it fitter to remain quiet, and defend the Poſts we had gained, than ha<g ref="char:EOLhyphen"/>zard our Men upon ſo dangerous an Enter<g ref="char:EOLhyphen"/>prize: About Three in the Afternoon, their whole Army diſappeared, being with<g ref="char:EOLhyphen"/>drawn Four Miles from the Town. VVe loſt 500 men, and nigh 1200 wounded; we found of the Enemies 4000 dead in the Trenches. VVe are now filling the Trenches, and ruinating their VVorks.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
